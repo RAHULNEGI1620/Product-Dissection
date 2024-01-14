@@ -3,7 +3,6 @@ product dissection of leading E commerce company named Amazon
 
 # Amazon Product Dissection
 
-![Project Logo or Image - Optional]
 
 ## Overview
 
@@ -15,8 +14,7 @@ This repository contains the details and findings of a comprehensive dissection 
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 
@@ -47,15 +45,15 @@ Highlight the key features and sections covered in your dissection. This could i
 
 - Business Model Analysis
 - User Experience Evaluation
-- Technology Stack Overview
-- Competitive Landscape
-- Future Trends and Predictions
+- schema descrtption
+- entity reltions
+- conclusion
 
-Feel free to customize this list based on the specific aspects you explored.
+
 
 ## Setup
 
-Provide instructions on how to set up and run the project. Include any dependencies, system requirements, or configuration steps needed.
+open the project in google docs to read the project report and for ER diagram copy and run the code given in this reository  on sql.
 
 
 
